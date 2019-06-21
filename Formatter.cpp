@@ -8,7 +8,7 @@
 		This program will format the list into a file called words.txt and also output to the console
 		the words in quotation marks seperated by a comma. This part will make it extremley easy to copy
 		and paste the output into an array.
-	*/
+*/
 
 
 #include <iostream>
